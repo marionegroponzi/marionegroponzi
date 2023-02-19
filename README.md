@@ -4,7 +4,6 @@
 - 👀 I worked for Motorola, TomTom, Philips and I am today in ABN AMRO Bank as mobile domain expert.
 - 👀 I guide a team building CI/CD and infrastructure for mobile apps in Azure.
 - 🌱 I’m an avid reader of code-related technologies and I consider an O'Reilly subscription essential.
-- 📫 You can reach me at marionegroponzi+github@gmail.com
 
 <!---
 marionegroponzi/marionegroponzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
